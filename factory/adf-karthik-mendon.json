@@ -1,0 +1,9 @@
+{
+	"name": "adf-karthik-mendon",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b5bf2b8f-c521-4d58-b440-588e1f40d088",
+		"tenantId": "da165807-9918-4734-ada2-13be3761978d"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"name": "integration-engine",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
